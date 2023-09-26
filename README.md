@@ -15,7 +15,7 @@ Without PCA:
 - f1: 0.88
 
 With PCA:
-Accuracy: 0.88
-Precision: 0.79
-Recall: 0.93
-f1: 0.85
+- Accuracy: 0.88
+- Precision: 0.79
+- Recall: 0.93
+- f1: 0.85
